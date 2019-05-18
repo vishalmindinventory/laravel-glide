@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-glide",
+    "name": "spatie/laravel-lumen-glide",
     "description": "Easily convert images with Glide",
     "homepage": "https://github.com/spatie/laravel-glide",
     "license": "MIT",
