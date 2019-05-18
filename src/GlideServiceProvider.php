@@ -12,7 +12,7 @@ class GlideServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__.'/../config/laravel-glide.php' => $this->app->configPath().'/'.'laravel-glide.php',
+            __DIR__ . '/../config/laravel-glide.php' => config_path('laravel-glide'),
         ], 'config');
     }
 
