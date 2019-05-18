@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\Glide;
+namespace Spatie\LaravelLumenGlide;
 
 use League\Glide\ServerFactory;
-use Spatie\Glide\Exceptions\SourceFileDoesNotExist;
+use Spatie\LaravelLumenGlide\Exceptions\SourceFileDoesNotExist;
 
 class GlideImage
 {

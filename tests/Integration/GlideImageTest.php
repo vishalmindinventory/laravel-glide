@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Glide\Test\Integration;
+namespace Spatie\LaravelLumenGlide\Test\Integration;
 
 use Spatie\Glide\GlideImage;
 use Spatie\Glide\Exceptions\SourceFileDoesNotExist;

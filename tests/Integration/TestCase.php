@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Glide\Test\Integration;
+namespace Spatie\LaravelLumenGlide\Test\Integration;
 
 use File;
 use Spatie\Glide\GlideServiceProvider;

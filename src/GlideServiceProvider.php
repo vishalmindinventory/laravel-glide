@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Glide;
+namespace Spatie\LaravelLumenGlide;
 
 use Illuminate\Support\ServiceProvider;
 

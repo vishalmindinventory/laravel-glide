@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Glide\Exceptions;
+namespace Spatie\LaravelLumenGlide\Exceptions;
 
 use Exception;
 
