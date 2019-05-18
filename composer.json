@@ -35,10 +35,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Spatie\\Glide\\GlideServiceProvider"
+                "Spatie\\LaravelLumenGlide\\GlideServiceProvider"
             ],
             "aliases": {
-                "GlideImage": "Spatie\\Glide\\GlideImageFacade"
+                "GlideImage": "Spatie\\LaravelLumenGlide\\GlideImageFacade"
             }
         }
     }
